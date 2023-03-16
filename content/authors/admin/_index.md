@@ -22,7 +22,7 @@ organizations:
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: В сфере науки мне нравится заниматься математикой и программированием.
+bio: В сфере науки мне нравится заниматься программированием и математикой.
 
 # Interests to show in About widget
 interests:
