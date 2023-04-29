@@ -41,6 +41,38 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+  - icon: e
+    icon_pack: fas
+    link: https://www.elibrary.ru/defaultx.asp
+    label: eLibrary
+  - icon: shcool-lock
+    icon_pack: fas
+    link: https://scholar.google.com/citations?view_op=new_articles&hl=ru&imq=Lobanova+Polina#
+    label: Sholar.google
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/my-orcid
+    label: Orcid
+  - icon: mendeley
+    icon_pack: fab
+    link: https://www.mendeley.com/search/
+    label: Mendeley
+  - icon: reseachgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Polina-Lobanova-5
+    label: ReseachGate
+  - icon: a
+    icon_pack: fas
+    link: https://independent.academia.edu/ %D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0%D0%9B%D0%BE%D0%B1%D0%B0%D0%BD%D0%BE%D0%B2%D0%B05
+    label: Academia
+  - icon: file-zipper
+    icon_pack: fas
+    link: https://arxiv.org/user/
+    label: arXiv
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/pilobanova
+    label: GitHub 
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
