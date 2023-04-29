@@ -45,10 +45,10 @@ social:
     icon_pack: fas
     link: https://www.elibrary.ru/defaultx.asp
     label: eLibrary
-  - icon: shcool-lock
+  - icon: school-lock
     icon_pack: fas
     link: https://scholar.google.com/citations?view_op=new_articles&hl=ru&imq=Lobanova+Polina#
-    label: Sholar.google
+    label: Shcolar.google
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/my-orcid
@@ -57,7 +57,7 @@ social:
     icon_pack: fab
     link: https://www.mendeley.com/search/
     label: Mendeley
-  - icon: reseachgate
+  - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Polina-Lobanova-5
     label: ReseachGate
@@ -73,8 +73,6 @@ social:
     icon_pack: fab
     link: https://github.com/pilobanova
     label: GitHub 
- 
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
